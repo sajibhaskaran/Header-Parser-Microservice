@@ -1,18 +1,9 @@
+# FreeCodeCamp Basejump: Request Header Parser Microservice
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+### User stories:
 
+I can get the IP address, language and operating system for my browser.
 
-Hi there! Welcome to Cloud9 IDE!
+### Example usage:
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+{"ipaddress":"xxx.xxx.xxx.xxx","language":"en-US","software":"X11; Linux x86_64"}
